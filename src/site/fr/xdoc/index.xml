@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <properties>
+        <title>Librairie DevOps</title>
+    </properties>
+    <body>
+        <section name="Bibliothèque DevOps">
+            <subsection name="Introduction">
+                <p>
+                    L'objet de cette bibliothèque est d'offrir un certain nombre de service pour les 
+                    opérations de devops.
+                </p>
+            </subsection>
+            </section>
+    </body>
+</document>
